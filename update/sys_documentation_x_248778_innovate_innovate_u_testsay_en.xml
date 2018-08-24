@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_testsay" label="Please Say :" language="en" table="x_248778_innovate_innovate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_testsay</element>
+            <help/>
+            <hint/>
+            <label>Please Say :</label>
+            <language>en</language>
+            <name>x_248778_innovate_innovate</name>
+            <plural>Please Say :s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 05:17:14</sys_created_on>
+            <sys_id>29130a38db5b1300bd94d100cf961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Please Say :</sys_name>
+            <sys_package display_value="Innovate" source="x_248778_innovate">861a6820db131300bd94d100cf9619fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">861a6820db131300bd94d100cf9619fc</sys_scope>
+            <sys_update_name>sys_documentation_x_248778_innovate_innovate_u_testsay_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 05:17:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

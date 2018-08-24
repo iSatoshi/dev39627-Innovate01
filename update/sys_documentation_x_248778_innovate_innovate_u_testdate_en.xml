@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_testdate" label="New Date_test" language="en" table="x_248778_innovate_innovate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_testdate</element>
+            <help/>
+            <hint/>
+            <label>New Date_test</label>
+            <language>en</language>
+            <name>x_248778_innovate_innovate</name>
+            <plural>New Date_tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 05:18:34</sys_created_on>
+            <sys_id>81638a38db5b1300bd94d100cf961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Date_test</sys_name>
+            <sys_package display_value="Innovate" source="x_248778_innovate">861a6820db131300bd94d100cf9619fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">861a6820db131300bd94d100cf9619fc</sys_scope>
+            <sys_update_name>sys_documentation_x_248778_innovate_innovate_u_testdate_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 05:18:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
